@@ -9,6 +9,8 @@ export default defineNuxtConfig({
     format: ['webp']
   },
   publicRuntimeConfig: {
-    NUXT_PUBLIC_STUDIO_TOKENS: process.env.NUXT_PUBLIC_STUDIO_TOKENS
+    public: {
+      NUXT_PUBLIC_STUDIO_TOKENS: process.env.NUXT_PUBLIC_STUDIO_TOKENS
+    }
   }
 })
