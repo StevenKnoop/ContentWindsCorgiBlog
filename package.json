@@ -10,5 +10,8 @@
   "devDependencies": {
     "content-wind": "latest",
     "nuxt": "latest"
+  },
+  "dependencies": {
+    "@nuxt/image": "^1.1.0"
   }
 }
