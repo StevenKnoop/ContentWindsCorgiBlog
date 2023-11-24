@@ -13,7 +13,7 @@ Arrived at the airport two years ago on 31 October. This day happened to be Hall
 We arrived at the airport with excitement in our eyes, ready to collect Papa Pam. Once the staff brought him out we could not believe how big he was! At just 10 weeks old he already had a big structure, it was the cutest thing ever. His brother came down on the same flight, so they said their goodbyes before we headed home.
 
 ## Happy Beginnings
-![Fetching Pam 1](/assets/pam/day1.0.jpeg)
+![athome.jpeg](/athome.jpeg)
 
 ![Fetching Pam 2](/assets/pam/day1.1.jpeg)
 
