@@ -1,4 +1,5 @@
 export default defineNuxtConfig({
+  target: 'static',
   extends: 'content-wind',
   modules: [
     '@nuxt/image',
@@ -6,5 +7,8 @@ export default defineNuxtConfig({
   ],
   image: {
     format: ['webp']
+  },
+  publicRuntimeConfig: {
+    NUXT_PUBLIC_STUDIO_TOKENS: process.env.NUXT_PUBLIC_STUDIO_TOKENS
   }
 })
