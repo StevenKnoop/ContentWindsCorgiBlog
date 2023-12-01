@@ -1,9 +1,10 @@
 ---
 navigation.title: 'Pampoentjie'
+slug: 'pampoentjie'
 layout: 'full-width'
 # Custom og:image
 head.description: 'This is a custom description for Content Wind about page.'
-head.image: '/bubbleboiv3.jpg'
+head.image: 'bubbleboiv3.jpg'
 ---
 # Papa Pam
 ![bubbleboiv3.jpg](/bubbleboiv3.jpg)
