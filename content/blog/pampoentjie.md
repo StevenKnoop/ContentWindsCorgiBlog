@@ -5,7 +5,15 @@ layout: 'full-width'
 # Custom og:image
 head.description: 'This is a custom description for Content Wind about page.'
 head.image: 'bubbleboiv3.jpg'
+
+sitemap:
+  loc: /pampoentjie
+  lastmod: 2023-12-02
+  changefreq: monthly
+  priority: 0.8
 ---
+
+
 # Papa Pam
 ![bubbleboiv3.jpg](/bubbleboiv3.jpg)
 
