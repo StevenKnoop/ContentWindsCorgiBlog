@@ -16,7 +16,8 @@ export default defineNuxtConfig({
   },
   publicRuntimeConfig: {
     public: {
-      NUXT_PUBLIC_STUDIO_TOKENS: process.env.NUXT_PUBLIC_STUDIO_TOKENS
+      NUXT_PUBLIC_STUDIO_TOKENS: process.env.NUXT_PUBLIC_STUDIO_TOKENS,
+      siteUrl: 'https://www.corgipuppies.co.za',
     }
   }
 })
