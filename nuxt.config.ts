@@ -6,9 +6,6 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxtjs/robots',
   ],
-  content: {
-    documentDriven: true
-  },
   image: {
     format: ['webp']
   },
